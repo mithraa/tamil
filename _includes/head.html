@@ -1,0 +1,28 @@
+<head  prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile:http://ogp.me/ns/profile#">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% assign pageTitle = site.title %}
+  {% if page.title %}
+  	{% assign pageTitle = page.title %}
+  {% endif %}
+  <title>{{ pageTitle }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<link href='http://fonts.googleapis.com/earlyaccess/droidsanstamil.css' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <!--fb meta-->
+  <meta property="fb:app_id" content="708909249245384" />
+  <meta property="og:title" content="{{pageTitle}}" />
+  <meta property="og:type" content="article" />
+  <!--meta property="article:author" />
+  <meta property="profile:first_name" content="Arun" />
+  <meta property="profile:last_name" content="Venky" /-->
+  <meta property="og:url" content="{{page.url | prepend: site.baseurl | prepend: site.url}}" />
+  <meta property="og:image" content="{{site.url}}/assets/images/10338855_554540154658956_3522230644562482760_n.jpg" />
+  <!-- favicon image-->
+  <link rel="icon" 
+      type="image/png" 
+      href="/assets/images/favicon-96x96.png">
+</head>

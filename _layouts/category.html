@@ -1,0 +1,30 @@
+---
+layout : default 
+---
+<div class="post">
+
+  <header class="post-header">
+   <h2 class="post-title">{{ page.title }}</h2>
+  </header>
+  <article class="post-content">
+    {{ content }}
+  </article>
+  <ul class="post-list">
+    {% assign title = page.title | downcase %}
+  	{% for category in site.categories %}
+      {% assign cat = category[0] | downcase %}
+  		{% if cat == title %}
+  			{% for page in category[1] %}
+  				<li>
+        			<span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+        			<h2>
+          				<a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{% include page_title.html %}</a>
+        			</h2>
+      		</li>
+  			{% endfor %}
+  		{% endif %}
+  	{% endfor %}
+
+  </ul>
+
+</div>

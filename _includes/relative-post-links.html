@@ -1,0 +1,29 @@
+  {%if page.previous or page.next %}
+  <nav class="relative-post-nav">
+    {% if page.previous %}
+    <span class="prev-post">
+      <h3>
+        <a class="lang-button" href="{{page.previous.url | prepend:site.baseurl}}">&larr; 
+          {{ page.previous.title }}
+          {%if page.previous.title_tamil  %}
+            ({{ page.previous.title_tamil }})
+          {% endif %}
+        </a>
+      </h3>
+    </span>
+    {% endif %}
+    {% if page.next %}
+    <span class="next-post">
+      <h3>
+        <a class="lang-button" href="{{page.next.url | prepend:site.baseurl}}">
+          {{ page.next.title }}
+          {%if page.next.title_tamil  %}
+            ({{ page.next.title_tamil }})
+          {% endif %}
+ &rarr;
+        </a>
+      </h3>
+    </span>
+    {% endif %}
+  </nav>
+  {% endif %}

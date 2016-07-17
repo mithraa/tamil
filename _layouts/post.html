@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h2 class="post-title" {% if page.title_tamil %}id="english-title" {% endif %} >{{ page.title }}</h2> 
+    {% if page.title_tamil %}
+      <h2 class="post-title" id="tamil-title">{{ page.title_tamil }}</h2>
+    {% endif %}
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+  <div id="lang-nav">
+    <a class="lang-button" id="tamil-lang-button" href="#" onClick="showPanel('tamil')">Tamil</a><a class="lang-button" href= "#" id="english-lang-button" onClick="showPanel('english')">English</a>
+  </div>  
+  <article class="post-content">
+    {{ content }}
+  </article>
+{% include relative-post-links.html %}
+  <div class="fb-comments" data-href="{{ page.url | prepend:site.baseurl | prepend:site.url}}" data-width="100%"></div>
+</div>
