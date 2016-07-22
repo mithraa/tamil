@@ -1,6 +1,6 @@
 ---
 category : kavidaigal
-laytou : post
+layout : post
 ---
 
 # this is an awesome kavidai.
