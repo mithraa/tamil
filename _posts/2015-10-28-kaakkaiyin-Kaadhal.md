@@ -7,6 +7,9 @@ published: true
 ![77.jpg]({{site.baseurl}}/assets/images/77.jpg)
 
 <div id="english-poem">
+
+Kaadhalukku oru pudhiya arimugam!!! karpanai sidhara oru muthu kaadhal!!
+
 >Karuppu oar kaakkai, \\
 Vellai pura oar paavai, \\
 Paartha udan manam parakka, \\
@@ -39,6 +42,9 @@ Iruvarum idaiyil sandhikka, thanimai vilagiyadhu..
 >Kaakkaikum kaadhal kaikku ettiyadhu!!!
 </div>
 <div id="tamil-poem">
+
+காதலுக்கு ஒரு புதிய அறிமுகம். கற்பனை சிதற ஒரு முத்து காதல்!!!
+
 >கருப்பு ஓர் காக்கை,\\
 வெள்ளை புறா ஓர் பாவை,\\
 பார்த்த உடன் மனம் பறக்க,\\
