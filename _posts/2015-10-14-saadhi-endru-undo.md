@@ -1,11 +1,13 @@
 ---
 layout : post
-title_tamil : சாதி என்று உண்டோ
+title_tamil : சாதி என்று உண்டோ
 category : kavidaigal
 ---
 
-
 <div id="english-poem">
+
+Manidha varalaatril kaanamudiyadha alavukku saadhi oru bodhai aagivittadhu..Meela idhu oru paadhai vazhanga urugugiraen!!!
+
 >Thadukkiradhu, adikkiradhu, nerikkiradhu saadhi, \\
 Nenjai sidhaikiradhu udaikiradhu adaikkiradhu saadhi !!!
 >
