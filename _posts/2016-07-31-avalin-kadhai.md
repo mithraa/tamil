@@ -5,7 +5,7 @@ category: kavidaigal
 ---
 
 
-&lt;div id="english-poem"&gt;
+<div id="english-poem">
 
 > Neytru thaan sandhithaen,
 > <br>Siru alaiyin melliya kural,
@@ -57,9 +57,9 @@ category: kavidaigal
 > <br>"Un kudumbam nalama" endru..
 > <br>Yaar arivaar, thunbangalai puratti aditthu ninaivootrum sambhavangalai marakka ninaiththum, "madinthaal dhaan maraiyumo" endru ninaikkavaikkadheergal!!
 
-&lt;/div&gt;
+</div>
 
-&lt;div id="tamil-poem"&gt;
+<div id="tamil-poem">
 
 > நேற்று தான் சந்திதேன்,
 >
@@ -143,4 +143,4 @@ category: kavidaigal
 >
 > துன்பங்களை புரட்டி அடித்து, நினைவூற்ரும் சம்பவங்களை மறக்க நினைத்தும், "மடிந்தால் தான் மறையுமோ?" என்று நினாக்க வைக்காதீர்கள்!!!
 
-&lt;/div&gt;
+</div>
