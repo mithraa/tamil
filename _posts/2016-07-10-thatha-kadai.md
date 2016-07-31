@@ -4,6 +4,7 @@ title_tamil: தாத்தா கடை
 category: kavidaigal
 ---
 
+<div id="english-poem">
 
 > Sila uravugal utchi kulira vaikkum,
 >
@@ -12,7 +13,7 @@ category: kavidaigal
 > adhu poal oruvarin thodarbu thaan,
 >
 > palarin vaaazhvin vandhu poagum "Thatha Kadai"..
-
+>
 > Pinju nenju ondru,
 >
 > pudhiya idathil pandhai vaanga thaedi nirka,
@@ -26,7 +27,7 @@ category: kavidaigal
 > engalai therindhirundhaar,
 >
 > moondraavadhu thaathaavaai paasaththai pozhindhirundhaar…
-
+>
 > mada mada vena kaalam oada,
 >
 > viru viruvena vayadhum kooda,
@@ -34,8 +35,6 @@ category: kavidaigal
 > poruppugal kaikooda,
 >
 > naan idam maatram seiyya naerndhadhu…
->
->
 >
 > aindhu aandugalukku pin,
 >
@@ -59,9 +58,10 @@ category: kavidaigal
 >
 > # ThaathaKadai
 
+</div>
 
 
-
+<div id="tamil-poem">
 
 > சில உறவுகள் உச்சி குளிர வைக்கும்..
 > <br>சில பேச்சுக்கள் பசுமை பயணம் ஆகிடும்..
@@ -95,3 +95,5 @@ category: kavidaigal
 > <br>மீண்டும் பந்தை வாங்க கைகள் ஏந்தி நின்றது!!!
 >
 > <br>#தாத்தா கடை
+
+</div>
