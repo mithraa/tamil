@@ -14,6 +14,8 @@ category: kavidaigal
 >
 > palarin vaaazhvin vandhu poagum "Thatha Kadai"..
 >
+>
+>
 > Pinju nenju ondru,
 >
 > pudhiya idathil pandhai vaanga thaedi nirka,
@@ -28,6 +30,8 @@ category: kavidaigal
 >
 > moondraavadhu thaathaavaai paasaththai pozhindhirundhaar…
 >
+>
+>
 > mada mada vena kaalam oada,
 >
 > viru viruvena vayadhum kooda,
@@ -35,6 +39,8 @@ category: kavidaigal
 > poruppugal kaikooda,
 >
 > naan idam maatram seiyya naerndhadhu…
+>
+>
 >
 > aindhu aandugalukku pin,
 >
