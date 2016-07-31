@@ -1,0 +1,97 @@
+---
+layout: post
+title_tamil: தாத்தா கடை
+category: kavidaigal
+---
+
+
+> Sila uravugal utchi kulira vaikkum,
+>
+> sila peychugal pasumai payanam aagidum,
+>
+> adhu poal oruvarin thodarbu thaan,
+>
+> palarin vaaazhvin vandhu poagum "Thatha Kadai"..
+
+> Pinju nenju ondru,
+>
+> pudhiya idathil pandhai vaanga thaedi nirka,
+>
+> irunooru sadhiradiyil anaithaiyum adikki vaithaar…
+>
+> Pencil, paena, mattai, pandhu,
+>
+> Padippu mudhal vilaiyattu varai
+>
+> engalai therindhirundhaar,
+>
+> moondraavadhu thaathaavaai paasaththai pozhindhirundhaar…
+
+> mada mada vena kaalam oada,
+>
+> viru viruvena vayadhum kooda,
+>
+> poruppugal kaikooda,
+>
+> naan idam maatram seiyya naerndhadhu…
+>
+>
+>
+> aindhu aandugalukku pin,
+>
+> iruvadhu varuda natpai thaedi sella,
+>
+> kadai thirandha maeni irundhadhu,
+>
+> pudhiyadhoruvanum irundhaan..
+>
+>
+>
+> Thaathaa thavari vittaar endraan…
+>
+> aanaal "ennil irundhu illaiyada" endru azhudhu oar kuralil
+>
+> koori vandhu vittaen..
+>
+> Nigazhvugal ninaivugal aanadhu…
+>
+> Meendum pandhai vaanga kaigal yaendhi ninradhu!!
+>
+> # ThaathaKadai
+
+
+
+
+
+> சில உறவுகள் உச்சி குளிர வைக்கும்..
+> <br>சில பேச்சுக்கள் பசுமை பயணம் ஆகிடும்..
+> <br>அது போல் ஒருவரின் தொடர்பு தான்…
+> <br>பலரின் வாழ்வில் வந்து போகும் "தாத்தா கடை"…
+>
+> பிஞ்சு நெஞ்சு ஒன்று ..
+> <br>புதிய இடத்தில் பந்தை வாங்க தேடி நிற்க …
+> <br>இருநூறு சதுரடியில்  ,
+> <br>அனைத்தையும் அடுக்கி வைத்தார் …
+>
+> பென்சில் , பேனா , மட்டை பந்து…
+> <br>படிப்பு முதல் விளையாட்டு வரை …
+> <br>எங்களை தெரிந்திருந்தார்  ..
+> <br>மூன்றாவது  தாத்தாவாய் பாசத்தை பொழிந்திருந்தார் …
+>
+> மட  மடவென  காலம்  ஓட ..
+> <br>விறு  விறுவென  வயதும்  கூட .
+> <br>பொறுப்புகள்  கைகூட ..
+> <br>நான்  இடம்  மாற்றம்  செய்ய நேர்ந்தது …
+>
+> ஐந்து  ஆண்டுகளுக்கு பின் ,
+> <br>இருவது வருட  நட்பை  தேடி  செல்ல …
+> <br>கடை  திறந்த  மேனி இருந்தது .
+> <br>புதியதொருவனும்  இருந்தான் ..
+>
+> தாத்தா தவறி விட்டாராம் …
+> <br>ஆனால்  "என்னில் இருந்து இல்லையடா" என்று அழுது
+> <br>ஓர் குரலில் கூறி வந்து விட்டேன் ..
+> <br>நிகழ்வுகள் நினைவுகள் ஆனது ..
+> <br>மீண்டும் பந்தை வாங்க கைகள் ஏந்தி நின்றது!!!
+>
+> <br>#தாத்தா கடை
