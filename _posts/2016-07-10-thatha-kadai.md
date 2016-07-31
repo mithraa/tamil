@@ -9,7 +9,7 @@ category: kavidaigal
 > Sila uravugal utchi kulira vaikkum,
 > <br> Sila peychugal pasumai payanam aagidum,
 > <br> Adhu poal oruvarin thodarbu thaan,
-> <br> Palarin vaaazhvin vandhu poagum "Thatha Kadai"..>
+> <br> Palarin vaaazhvin vandhu poagum "Thatha Kadai"..
 >
 > Pinju nenju ondru,
 > <br> Pudhiya idathil pandhai vaanga thaedi nirka,
