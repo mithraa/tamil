@@ -7,60 +7,36 @@ category: kavidaigal
 <div id="english-poem">
 
 > Sila uravugal utchi kulira vaikkum,
->
-> sila peychugal pasumai payanam aagidum,
->
-> adhu poal oruvarin thodarbu thaan,
->
-> palarin vaaazhvin vandhu poagum "Thatha Kadai"..
->
->
+> <br> sila peychugal pasumai payanam aagidum,
+> <br> adhu poal oruvarin thodarbu thaan,
+> <br> palarin vaaazhvin vandhu poagum "Thatha Kadai"..>
 >
 > Pinju nenju ondru,
->
-> pudhiya idathil pandhai vaanga thaedi nirka,
->
-> irunooru sadhiradiyil anaithaiyum adikki vaithaar…
+> <br> pudhiya idathil pandhai vaanga thaedi nirka,
+> <br> irunooru sadhiradiyil anaithaiyum adikki vaithaar…
 >
 > Pencil, paena, mattai, pandhu,
->
-> Padippu mudhal vilaiyattu varai
->
-> engalai therindhirundhaar,
->
-> moondraavadhu thaathaavaai paasaththai pozhindhirundhaar…
->
->
+> <br>Padippu mudhal vilaiyattu varai engalai therindhirundhaar,
+> <br> moondraavadhu thaathaavaai paasaththai pozhindhirundhaar…>
 >
 > mada mada vena kaalam oada,
->
-> viru viruvena vayadhum kooda,
->
-> poruppugal kaikooda,
->
-> naan idam maatram seiyya naerndhadhu…
->
->
+> <br> viru viruvena vayadhum kooda,
+> <br> poruppugal kaikooda,
+> <br> naan idam maatram seiyya naerndhadhu…>
 >
 > aindhu aandugalukku pin,
->
-> iruvadhu varuda natpai thaedi sella,
->
-> kadai thirandha maeni irundhadhu,
->
-> pudhiyadhoruvanum irundhaan..
+> <br> iruvadhu varuda natpai thaedi sella,
+> <br> kadai thirandha maeni irundhadhu,
+> <br> pudhiyadhoruvanum irundhaan..
 >
 >
 >
 > Thaathaa thavari vittaar endraan…
->
-> aanaal "ennil irundhu illaiyada" endru azhudhu oar kuralil
->
-> koori vandhu vittaen..
+> <br> aanaal "ennil irundhu illaiyada" endru 
+> <br> azhudhu oar kuralil koori vandhu vittaen..
 >
 > Nigazhvugal ninaivugal aanadhu…
->
-> Meendum pandhai vaanga kaigal yaendhi ninradhu!!
+> <br> Meendum pandhai vaanga kaigal yaendhi ninradhu!!
 >
 > # ThaathaKadai
 
