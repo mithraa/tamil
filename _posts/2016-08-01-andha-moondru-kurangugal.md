@@ -5,9 +5,9 @@ category: kavidaigal
 ---
 
 
-> <div id="english-poem">Kangal avai pookkal,&nbsp;<br />Seri paarai un thaedal..&nbsp;<br />Yaamaarku enne naerthaalum...&nbsp;<br />Kaatchiyai moodidu aayinum dharmaththai saerndhidu</div>
+> <div id="english-poem">Kangal avai pookkal,&nbsp;<br />Seri paarai un thaedal..&nbsp;<br />Yaamaarku enne naerthaalum...&nbsp;<br />Kaatchiyai moodidu aayinum dharmaththai saerndhidu
 >
-> <div>Vaarthai nitham sutham enave&nbsp;<br />Vaayaal vaazhthi vanungu pirarai&nbsp;<br />Uyara&nbsp; valara kaanbaai unaye..&nbsp;<br />Naa thalaradhirunthaal unmaye un udaye...</div>
+> <div>Vaarthai nitham sutham enave&nbsp;<br />Vaayaal vaazhthi vanungu pirarai&nbsp;<br />Uyara&nbsp; valara kaanbaai unaye..&nbsp;<br />Naa thalaradhirunthaal unmaye un udaye...
 >
 > <div>&nbsp;Sevigal irandum saaviyin araiye...&nbsp;<br />Kaetu thiravum vaazhvin vidukadhaiye...&nbsp;<br />Payanam palavum kadandhu vidalaam..&nbsp;<br />Manam thirakka avvapodhu idhai moodi kollavum vaendum!!! Andha moondru kurangu bommai enaku Sonna Unmai!!!!</div>
 
