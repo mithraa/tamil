@@ -1,6 +1,6 @@
 ---
 layout : post
-title_tamil : நீர்ஜா பநோட்
+title_tamil : அவளின் கதை
 category : kavidaigal
 ---
 
