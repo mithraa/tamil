@@ -46,7 +46,7 @@ Naalai en sayagal seeramaikka oru oru paadhai aakkiyadhu
 >
 >Nal urangu veera penne!!!!
 >
->#RIP Neerja Bhanot !!!
+>RIP Neerja Bhanot !!!
 >
 > - TamilMithran
 
@@ -92,7 +92,7 @@ Naalai en sayagal seeramaikka oru oru paadhai aakkiyadhu
 நாளை என் சயல்கள் சீரமைக்க ஓர் பாதை காட்டியது!!!!
 >
 >நல் உறங்கு வீர பெண்ணே
->#நீர்ஜா பநோட்
+>நீர்ஜா பநோட்
 >
 > -	தமிழ்மீத்ரன்
 
