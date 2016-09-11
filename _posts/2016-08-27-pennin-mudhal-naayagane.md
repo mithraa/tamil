@@ -1,6 +1,6 @@
 ---
 layout : post
-title_tamil : பெண்ணின் முதல் நாயகன்! 
+title_tamil : பெண்ணின் முதல் நாயகன் 
 category : kavidaigal
 ---
 
