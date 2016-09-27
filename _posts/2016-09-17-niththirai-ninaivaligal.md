@@ -11,12 +11,12 @@ Neenda naeramaai nithira devi ennai aatkollavillai...\\
 Kadaisiyil mayakkam suzhattri Kan mooda..\\
 Oar maaya ulagam kaathirundhadhu...
 >
->Pallikoodathil Siruvargal kootam, adhil naan irundaen, \\
+>Pallikoodathil Siruvargal kootam, adhil naanum irundaen, \\
 Anbu akka oruththi kannam killa vara, naan thulli oadinaen..\\
 Nalla parichayam aval enakku..\\
-oru naal Kaalaiyil oar naal aval illathirkku sendrirundhaen, \\
+oru naal Kaalaiyil aval illathirkku sendrirundhaen, \\
 kinararugil Ninru pal thaithu kondirundhaal, sattendru aval kaal vazhukka\\
-udal kinaru pakkam saaya, naan oadi poy paasathudan avalai thaanginaen..\\
+udal kinaru pakkam saaya, naan oadi pooi paasathudan avalai thaanginaen..\\
 akka magizhchiyil azhudhaey vittaal...
 >
 >Iru varudam oadina, aam Sankar Anna...pakkaththu veedu daan...\\
